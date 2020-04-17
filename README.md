@@ -1,2 +1,2 @@
-# kantin.go
-file untuk memenuhi tugas besar mata kuliah Dasar Algoritma Pemrograman
+# DAP-Final-Task
+Final Task for Basic Algorithm and Programming Course at Telkom University
