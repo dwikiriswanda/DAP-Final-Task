@@ -1,6 +1,6 @@
-<center>
-  <img src="banner.png" alt="Menu Awal Aplikasi Kantin">
-</center>
+<h1 align="center">
+   <img src="banner.png" alt="Menu Awal Aplikasi Kantin">
+</h1>
 
 Final Task for Basic Algorithm and Programming course at Telkom University.
 CLI based.
